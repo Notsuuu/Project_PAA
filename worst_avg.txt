@@ -1,0 +1,21 @@
+Worst Average Time
+
+Worst
+n = 100, Worst Case Time = 0.0000007000s
+n = 150, Worst Case Time = 0.0000009600s
+n = 200, Worst Case Time = 0.0000009200s
+n = 250, Worst Case Time = 0.0000007400s
+n = 300, Worst Case Time = 0.0000007600s
+n = 350, Worst Case Time = 0.0000005000s
+n = 400, Worst Case Time = 0.0000005000s
+n = 500, Worst Case Time = 0.0000004600s
+
+Average
+n = 100, Average Case Time = 0.0000008600s
+n = 150, Average Case Time = 0.0000018200s
+n = 200, Average Case Time = 0.0000015800s
+n = 250, Average Case Time = 0.0000014600s
+n = 300, Average Case Time = 0.0000014400s
+n = 350, Average Case Time = 0.0000011400s
+n = 400, Average Case Time = 0.0000013400s
+n = 500, Average Case Time = 0.0000012600s
